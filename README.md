@@ -9,7 +9,7 @@ This project predicts whether a loan application will be approved or not based o
 - K-Nearest Neighbors (KNN)
 
 ## Technologies
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Python, Pandas, NumPy, Scikit-learn, Matplotlib,Seaborn
 
 ## Results
 Compared model performance to identify the most effective algorithm for the dataset.
