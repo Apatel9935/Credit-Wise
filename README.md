@@ -1,7 +1,7 @@
 # Loan Approval Prediction System
 
 ## Overview
-This project predicts whether a loan application will be approved or not based on applicant features.
+Built a machine learning model to predict loan approval status using applicant data. Implemented and compared Logistic Regression, Naïve Bayes, and KNN algorithms, performing data preprocessing and model evaluation to determine the most effective classifier for the dataset.
 
 ## Algorithms Used
 - Logistic Regression
