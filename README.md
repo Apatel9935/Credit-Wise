@@ -9,7 +9,11 @@ Built a machine learning model to predict loan approval status using applicant d
 - K-Nearest Neighbors (KNN)
 
 ## Technologies
-Python, Pandas, NumPy, Scikit-learn, Matplotlib,Seaborn
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## Results
 Compared model performance to identify the most effective algorithm for the dataset.
+Accuracy Score : 
+Logisitc Regression : 87.5 % 
+Naive Bayes : 86.5 %
+kNN : 75.5 %
